@@ -1,7 +1,7 @@
 <resources>
     <!-- Start Tappx config -->
-    <string name="tappx_key">pub-64678-android-2499</string>
-    <string name="endpoint">sdk1234test</string>
+    <string name="tappx_key">pub-xxxxx-android-xxxx</string>
+    <string name="endpoint">sdkxxxxtest</string>
     <!-- End Tappx config -->
 
     <string name="app_name">Tappx SDK App</string>
