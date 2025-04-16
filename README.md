@@ -2,7 +2,7 @@
 
 **Build status**: ✅ _Developed_
 
-Tappx SDK App is a sample Android application built in **Kotlin** to demonstrate the integration and usage of the **Tappx advertising SDK**. The app includes examples of rewarded, interstitial, MREC, and banner ad formats, along with toggles and logging for testing and debugging purposes.
+Tappx SDK App is a sample Android application built in **Java** to demonstrate the integration and usage of the **Tappx advertising SDK**. The app includes examples of rewarded, interstitial, MREC, and banner ad formats, along with toggles and logging for testing and debugging purposes.
 
 This repository serves as a reference implementation for mobile developers looking to integrate **Tappx ads** into their native Android applications.
 
@@ -38,7 +38,7 @@ Other features demonstrated:
 
 ## 📲 Downloads
 
-For the latest builds of this demo app, check the [Releases](https://github.com/Techsoulogy/Tappx-Android-Kotlin-Example/releases) section.
+For the latest builds of this demo app, check the [Releases](https://github.com/Techsoulogy/Tappx-Android-Example/releases) section.
 
 ---
 
@@ -54,6 +54,6 @@ More repositories will be added in the future. Stay tuned!
 
 ## 🐛 Issue Tracker
 
-For bugs or suggestions related to this sample app, please use the [GitHub Issues](https://github.com/Techsoulogy/Tappx-Android-Kotlin-Example/issues) section.
+For bugs or suggestions related to this sample app, please use the [GitHub Issues](https://github.com/Techsoulogy/Tappx-Android-Example/issues) section.
 
 For SDK support, please use the [Tappx dashboard](https://dashboard.tappx.com/login).
