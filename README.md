@@ -46,7 +46,7 @@ For the latest builds of this demo app, check the [Releases](https://github.com/
 
 Here are some additional repositories for integrating Tappx into Android applications:
 
-- [Tappx SDK App for Android (Kotlin)](https://github.com/Techsoulogy/Tappx-Android-Kotlin-Example) – A sample app demonstrating Tappx SDK integration using Java.
+- [Tappx SDK App for Android (Kotlin)](https://github.com/Techsoulogy/Tappx-Android-Kotlin-Example) – A sample app demonstrating Tappx SDK integration using Kotlin.
 
 More repositories will be added in the future. Stay tuned!
 
