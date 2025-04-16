@@ -24,10 +24,10 @@ Check out the official [Tappx Docs](https://www.tappx.com/docs/android) for full
 
 This sample app integrates and demonstrates key features of the Tappx SDK. For complete code examples and implementation details, please refer to the documentation:
 
-- [Rewarded Ads](https://github.com/Techsoulogy/Tappx-Android-Kotlin-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/RewardedAd.kt)
-- [Interstitial Ads](https://github.com/Techsoulogy/Tappx-Android-Kotlin-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/InterstitialAd.kt)
-- [Banner Ads](https://github.com/Techsoulogy/Tappx-Android-Kotlin-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/BannerAd.kt)
-- [MREC Ads](https://github.com/Techsoulogy/Tappx-Android-Kotlin-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/MRECAd.kt)
+- [Rewarded Ads](https://github.com/Techsoulogy/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/RewardedAd.java)
+- [Interstitial Ads](https://github.com/Techsoulogy/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/InterstitialAd.java)
+- [Banner Ads](https://github.com/Techsoulogy/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/BannerAd.java)
+- [MREC Ads](https://github.com/Techsoulogy/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/MRECAd.java)
   
 Other features demonstrated:
 - Auto Show Toggle for interstitials
