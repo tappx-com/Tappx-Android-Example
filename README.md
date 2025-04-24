@@ -24,10 +24,10 @@ Check out the official [Tappx Docs](https://www.tappx.com/docs/android) for full
 
 This sample app integrates and demonstrates key features of the Tappx SDK. For complete code examples and implementation details, please refer to the documentation:
 
-- [Rewarded Ads](https://github.com/Techsoulogy/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/RewardedAd.java)
-- [Interstitial Ads](https://github.com/Techsoulogy/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/InterstitialAd.java)
-- [Banner Ads](https://github.com/Techsoulogy/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/BannerAd.java)
-- [MREC Ads](https://github.com/Techsoulogy/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/MRECAd.java)
+- [Rewarded Ads](https://github.com/tappx-com/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/RewardedAd.java)
+- [Interstitial Ads](https://github.com/tappx-com/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/InterstitialAd.java)
+- [Banner Ads](https://github.com/tappx-com/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/BannerAd.java)
+- [MREC Ads](https://github.com/tappx-com/Tappx-Android-Example/blob/main/app/src/main/java/tappx_sdk_app/ads/MRECAd.java)
   
 Other features demonstrated:
 - Auto Show Toggle for interstitials
@@ -38,7 +38,7 @@ Other features demonstrated:
 
 ## 📲 Downloads
 
-For the latest builds of this demo app, check the [Releases](https://github.com/Techsoulogy/Tappx-Android-Example/releases) section.
+For the latest builds of this demo app, check the [Releases](https://github.com/tappx-com/Tappx-Android-Example/releases) section.
 
 ---
 
@@ -46,7 +46,7 @@ For the latest builds of this demo app, check the [Releases](https://github.com/
 
 Here are some additional repositories for integrating Tappx into Android applications:
 
-- [Tappx SDK App for Android (Kotlin)](https://github.com/Techsoulogy/Tappx-Android-Kotlin-Example) – A sample app demonstrating Tappx SDK integration using Kotlin.
+- [Tappx SDK App for Android (Kotlin)](https://github.com/tappx-com/Tappx-Android-Kotlin-Example) – A sample app demonstrating Tappx SDK integration using Kotlin.
 
 More repositories will be added in the future. Stay tuned!
 
@@ -54,6 +54,6 @@ More repositories will be added in the future. Stay tuned!
 
 ## 🐛 Issue Tracker
 
-For bugs or suggestions related to this sample app, please use the [GitHub Issues](https://github.com/Techsoulogy/Tappx-Android-Example/issues) section.
+For bugs or suggestions related to this sample app, please use the [GitHub Issues](https://github.com/tappx-com/Tappx-Android-Example/issues) section.
 
 For SDK support, please use the [Tappx dashboard](https://dashboard.tappx.com/login).
