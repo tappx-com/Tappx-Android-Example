@@ -44,7 +44,7 @@ public class RewardedAd {
             @Override
             public void onRewardedVideoLoadFailed(TappxRewardedVideo tappxRewardedVideo, TappxAdError tappxAdError) {
                 // Log when the rewarded video fails to load
-                String message = "Rewarded Video Load Failed!";
+                String message = "Rewarded Video Load Failed!"+tappxAdError;
                 updateLog(message);
             }
 

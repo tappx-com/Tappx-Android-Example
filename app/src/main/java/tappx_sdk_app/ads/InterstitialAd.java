@@ -29,11 +29,6 @@ public class InterstitialAd {
     public void loadInterstitialAd() {
         interstitialAd = new TappxInterstitial(context, context.getString(R.string.tappx_key));
         interstitialAd.setAutoShowWhenReady(autoShow);
-        interstitialAd.loadAd(new AdRequest()
-                .useTestAds(context.getResources().getBoolean(R.bool.useTestAds))
-                .setEndpoint(context.getString(R.string.endpoint))
-        );
-
         // Add Listeners
         interstitialAd.setListener(new TappxInterstitialListener() {
             @Override
@@ -66,7 +61,10 @@ public class InterstitialAd {
                 updateLog(message);
             }
         });
-
+        interstitialAd.loadAd(new AdRequest()
+                .useTestAds(context.getResources().getBoolean(R.bool.useTestAds))
+                .setEndpoint(context.getString(R.string.endpoint))
+        );
 
     }
     public void showInterstitialAd(){
@@ -83,6 +81,7 @@ public class InterstitialAd {
         }
         if (interstitialAd.isReady()) {
             updateLog("Interstitial Ad is ready to show");
+
         } else {
             updateLog("Interstitial Ad is not ready yet");
         }
